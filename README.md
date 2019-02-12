@@ -21,3 +21,7 @@ Under your root folder, run the following command lines:
 - php bin/magento setup:upgrade --keep-generated
 - php bin/magento setup:di:compile
 - php bin/magento cache:flush
+
+## See the video How I can create this extension steps by step:
+1. Youtube: https://www.youtube.com/watch?v=Z-qpnl7cI4Q&index=54&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ
+2. Facebook: https://www.facebook.com/giaphugroupcom/videos/707473429649797/
